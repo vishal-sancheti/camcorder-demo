@@ -1,9 +1,9 @@
 # Laravel Camcorder Demo
-This project uses eyuva/laravel-camcorder and demostrate how to make a demo video
+This project uses [eyuva/laravel-camcorder](https://github.com/eyuva/laravel-camcorder) and show how to use the package to make a video.
 
 # Installation
 
-Step 1. Install PHP 7.1 and Setup Composer
+Step 1. Install PHP 7.1, FFmpeg 4.1, and Composer
 
 Step 2. Clone this repo to a desired location
 
