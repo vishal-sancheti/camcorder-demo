@@ -8,7 +8,7 @@ Step 1. Install PHP 7.1, FFmpeg 4.1, and Composer
 Step 2. Clone this repo to a desired location
 
 ```
-git clone https://github.com/v1shky/camcorder-demo.git
+git clone https://github.com/vishal-sancheti/camcorder-demo.git
 ```
 
 Step 3. Configure basic environment variables
